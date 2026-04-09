@@ -1,4 +1,4 @@
-# Vrishin-Ram# 💫 About Me:
+# Vrishin-Ram
 🚀 About Me<br>🔭 I’m currently working on: Cybersicker, an autonomous agentic AI designed to assist with security operations and automated threat response.<br>+2<br><br>👯 I’m looking to collaborate on: Projects involving Blue Teaming automation, Incident Response workflows, or open-source cybersecurity tools.<br>+1<br><br>🤝 I’m looking for help with: Advanced LLM fine-tuning for cybersecurity-specific use cases and scaling AI agents for real-time SOC environments.<br>+1<br><br>🌱 I’m currently learning: Quantum Computing fundamentals and deepening my expertise in ISO/IEC 27001:2022 lead auditing.<br><br>💬 Ask me about: SOC analysis, Digital Forensics, or my experience winning 1st place at the Ethical Hacking Hackathon at IIT Madras.<br>+1<br><br>⚡ Fun fact: I’m a 6-foot-tall cybersecurity enthusiast who once won 1st prize in a strategic IPL Auction event.
 
 
