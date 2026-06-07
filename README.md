@@ -32,8 +32,8 @@
 class VrishinRamK:
     def __init__(self):
         self.name = "Vrishin Ram K"
-        self.role = "Cybersecurity Engineer, AI Agent Builder & SOC Analyst"
-        self.education = "B.Tech CSE (Cybersecurity) | Dhanalakshmi Srinivasan University, Trichy | 3rd Year | CGPA: 7.1"
+        self.role = "Cybersecurity Analyst, AI Agent Builder & SOC Analyst"
+        self.education = "B.Tech CSE (Cybersecurity) | Dhanalakshmi Srinivasan University, Trichy | 4th Year | CGPA: 7.1"
         self.location = "Tenkasi, Tamil Nadu, India"
         self.languages = ["Tamil", "English", "Malayalam"]
         self.building = "Cybersicker — Autonomous Agentic SOC AI"
