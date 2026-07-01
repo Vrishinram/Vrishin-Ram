@@ -182,6 +182,7 @@ Client-side password analyzer with Shannon entropy, keyboard pattern detection, 
 <div align="center">
 
 ![ISO 27001](https://img.shields.io/badge/ISO%2FIEC_27001%3A2022-Lead_Auditor-00FF88?style=for-the-badge&logo=shield&logoColor=white)
+![COFPS](https://img.shields.io/badge/COFPS-Certified_Online_Fraud_Prevention_Specialist-red?style=for-the-badge&logo=shield&logoColor=white)
 ![SOC](https://img.shields.io/badge/SOC-Fundamentals-blue?style=for-the-badge&logo=security&logoColor=white)
 ![Digital Forensics](https://img.shields.io/badge/Digital-Forensics-purple?style=for-the-badge&logo=search&logoColor=white)
 ![ICS SCADA](https://img.shields.io/badge/ICS%2FSCADA-Security-orange?style=for-the-badge&logo=settings&logoColor=white)
