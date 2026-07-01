@@ -292,7 +292,7 @@ Client-side password analyzer with Shannon entropy, keyboard pattern detection, 
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Vrishinram&theme=matrix&no-frame=true&margin-w=6&column=7)
+![Trophies](https://github-trophies.devomb.com/?username=Vrishinram&theme=matrix&no-frame=true&margin-w=6&column=7)
 
 </div>
 
