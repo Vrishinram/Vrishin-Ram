@@ -119,31 +119,103 @@ class VrishinRamK:
 
 </div>
 
-### 🔐 Cybersicker
+### 🔐 Cybersicker — Autonomous SOC AI
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
 Dual-core autonomous SOC with LLM-powered agentic engine and deep learning autoencoder. Detects botnet, DDoS, and ransomware on NSL-KDD. Includes 5 autonomous investigation tools plus NIST CSF 2.0 and MITRE ATT&CK for ICS/IoT coverage.
 
+<p align="left">
+  <a href="https://github.com/Vrishinram/Cybersicker" target="_blank">
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
+
 ---
 
-### 📧 CyDetect
+### 🛡️ CyGuard / Cyberguard — Password & Security Suite
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HIBP](https://img.shields.io/badge/HaveIBeenPwned-2A6496?style=for-the-badge)
+
+Client-side security analyzer with Shannon entropy computation, keyboard pattern detection, k-anonymity breach API checks via HIBP, reuse prevention, and educational security guidance.
+
+<p align="left">
+  <a href="https://vrishinram.github.io/Cyberguard/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Open_App-00FF88?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/Vrishinram/Cyberguard" target="_blank">
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
+
+---
+
+### 🛡️ BruteShield — Adaptive Brute-Force Defense
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+Intelligent brute-force authentication protection simulation with progressive delay lockouts, IP-based threat monitoring, and live attack attempt logs.
+
+<p align="left">
+  <a href="https://vrishinram.github.io/BruteShield/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Open_App-00FF88?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/Vrishinram/BruteShield" target="_blank">
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
+
+---
+
+### 📧 CyDetect — ML Email Threat Classifier
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 5-category email threat classifier using Random Forest and a 6-feature NLP pipeline. Real-time dashboard with color-coded severity levels.
 
+<p align="left">
+  <a href="https://github.com/Vrishinram/CyDetect" target="_blank">
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
+
 ---
 
-### 🔑 CyAuth
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express) ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### 🌐 Personal Portfolio & Security Showcase
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+Interactive personal portfolio showcasing full cybersecurity projects, technical writeups, and capstone stories.
+
+<p align="left">
+  <a href="https://portfolio-vrishinrams-projects.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Site-Visit_Portfolio-00bfff?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+  </a>
+  <a href="https://github.com/Vrishinram/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
+
+---
+
+### 🔍 RootSecurity — OWASP Top 10 Security Assessment
+![React](https://img.shields.io/badge/React_19-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=tanstack&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+Interactive OWASP Top 10 security assessment web platform for startup applications covering 5 attack surfaces with live interactive vulnerability demos and automated PDF report generation.
+
+<p align="left">
+  <a href="https://github.com/Vrishinram/rootsecuity" target="_blank">
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
+
+---
+
+### 🔑 CyAuth — Secure Full-Stack Authentication
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express) ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 Full-stack authentication system built with modular secure coding patterns and clean separation of auth logic, DB config, and server entry points.
 
----
-
-### 🛡️ CyGuard
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HIBP](https://img.shields.io/badge/HaveIBeenPwned-2A6496?style=for-the-badge)
-
-Client-side password analyzer with Shannon entropy, keyboard pattern detection, k-anonymity breach API checks, reuse prevention, and educational security guidance.
+<p align="left">
+  <a href="https://github.com/Vrishinram/CyAuth" target="_blank">
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
