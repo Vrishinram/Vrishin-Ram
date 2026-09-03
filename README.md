@@ -113,11 +113,45 @@ class VrishinRamK:
 
 <div align="center">
 
+<a href="https://github.com/Vrishinram/PromptShield">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vrishinram&repo=PromptShield&theme=chartreuse-dark&hide_border=true&description_lines_count=3" />
+</a>
 <a href="https://github.com/Vrishinram/Cybersicker">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vrishinram&repo=Cybersicker&theme=chartreuse-dark&hide_border=true&description_lines_count=3" />
 </a>
 
+<br/>
+
+<a href="https://github.com/Vrishinram/ARGUS">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vrishinram&repo=ARGUS&theme=chartreuse-dark&hide_border=true&description_lines_count=3" />
+</a>
+<a href="https://github.com/Vrishinram/GuardRift">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vrishinram&repo=GuardRift&theme=chartreuse-dark&hide_border=true&description_lines_count=3" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Vrishinram/IGLOO">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vrishinram&repo=IGLOO&theme=chartreuse-dark&hide_border=true&description_lines_count=3" />
+</a>
+<a href="https://github.com/Vrishinram/portfolio">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vrishinram&repo=portfolio&theme=chartreuse-dark&hide_border=true&description_lines_count=3" />
+</a>
+
 </div>
+
+### 🛡️ PromptShield — Defensive AI Security Middleware
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-LLM_Top_10-blue?style=for-the-badge&logo=owasp)
+
+Multi-layered defensive security middleware & real-time telemetry console protecting LLMs against prompt injection, jailbreaks, indirect injections, and system prompt leaks with rule-based and semantic intent scoring.
+
+<p align="left">
+  <a href="https://github.com/Vrishinram/PromptShield" target="_blank">
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
+
+---
 
 ### 🔐 Cybersicker — Autonomous SOC AI
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
@@ -126,6 +160,48 @@ Dual-core autonomous SOC with LLM-powered agentic engine and deep learning autoe
 
 <p align="left">
   <a href="https://github.com/Vrishinram/Cybersicker" target="_blank">
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
+
+---
+
+### 🛡️ ARGUS — Enterprise LLM Security Gateway
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Python](https://img.shields.io/badge/Python-3.10+-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+
+High-performance defensive proxy for LLM architectures that intercepts adversarial inputs, redacts sensitive PII on egress, and enforces fine-grained safety policies before responses reach end users.
+
+<p align="left">
+  <a href="https://github.com/Vrishinram/ARGUS" target="_blank">
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
+
+---
+
+### ⚡ GuardRift — LLM Jailbreak Evaluation Suite
+![Python](https://img.shields.io/badge/Python-3.10+-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pydantic](https://img.shields.io/badge/Pydantic_v2-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![Security](https://img.shields.io/badge/AI-Red_Teaming-purple?style=for-the-badge)
+
+Automated red-teaming framework that stress-tests target LLMs and guardrails against adversarial jailbreak techniques, measuring empirical robustness and generating reproducible scorecards.
+
+<p align="left">
+  <a href="https://github.com/Vrishinram/GuardRift" target="_blank">
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
+
+---
+
+### 🏔️ IGLOO — Intelligent Gated-Community Living Orchestrator
+![PWA](https://img.shields.io/badge/PWA-Ready-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+Modern Progressive Web App (PWA) with AI maintenance triage, transparent financial tracking, and digitized visitor gate management built by Team AURA.
+
+<p align="left">
+  <a href="https://igloo-ruddy.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_PWA-Open_App-00FF88?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live App" />
+  </a>
+  <a href="https://github.com/Vrishinram/IGLOO" target="_blank">
     <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
   </a>
 </p>
@@ -148,35 +224,6 @@ Client-side security analyzer with Shannon entropy computation, keyboard pattern
 
 ---
 
-### 🛡️ BruteShield — Adaptive Brute-Force Defense
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-Intelligent brute-force authentication protection simulation with progressive delay lockouts, IP-based threat monitoring, and live attack attempt logs.
-
-<p align="left">
-  <a href="https://vrishinram.github.io/BruteShield/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-Open_App-00FF88?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Demo" />
-  </a>
-  <a href="https://github.com/Vrishinram/BruteShield" target="_blank">
-    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-  </a>
-</p>
-
----
-
-### 📧 CyDetect — ML Email Threat Classifier
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-
-5-category email threat classifier using Random Forest and a 6-feature NLP pipeline. Real-time dashboard with color-coded severity levels.
-
-<p align="left">
-  <a href="https://github.com/Vrishinram/CyDetect" target="_blank">
-    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-  </a>
-</p>
-
----
-
 ### 🌐 Personal Portfolio & Security Showcase
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -192,32 +239,6 @@ Interactive personal portfolio showcasing full cybersecurity projects, technical
 </p>
 
 ---
-
-### 🔍 RootSecurity — OWASP Top 10 Security Assessment
-![React](https://img.shields.io/badge/React_19-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=tanstack&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-Interactive OWASP Top 10 security assessment web platform for startup applications covering 5 attack surfaces with live interactive vulnerability demos and automated PDF report generation.
-
-<p align="left">
-  <a href="https://github.com/Vrishinram/rootsecuity" target="_blank">
-    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-  </a>
-</p>
-
----
-
-### 🔑 CyAuth — Secure Full-Stack Authentication
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express) ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-Full-stack authentication system built with modular secure coding patterns and clean separation of auth logic, DB config, and server entry points.
-
-<p align="left">
-  <a href="https://github.com/Vrishinram/CyAuth" target="_blank">
-    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📰 Research & Publications
 
