@@ -376,7 +376,7 @@ Interactive personal portfolio showcasing full cybersecurity projects, technical
 
 <div align="center">
 
-[![Vrishin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vrishinram&theme=react-dark&bg_color=0d1117&color=00FF88&line=00FF88&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vrishin's Activity Graph](https://activity-graph.vercel.app/graph?username=Vrishinram&theme=react-dark&bg_color=0d1117&color=00FF88&line=00FF88&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
