@@ -147,7 +147,7 @@ Multi-layered defensive security middleware & real-time telemetry console protec
 
 <p align="left">
   <a href="https://github.com/Vrishinram/PromptShield" target="_blank">
-    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
   </a>
 </p>
 
@@ -160,7 +160,7 @@ Dual-core autonomous SOC with LLM-powered agentic engine and deep learning autoe
 
 <p align="left">
   <a href="https://github.com/Vrishinram/Cybersicker" target="_blank">
-    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
   </a>
 </p>
 
@@ -173,7 +173,7 @@ High-performance defensive proxy for LLM architectures that intercepts adversari
 
 <p align="left">
   <a href="https://github.com/Vrishinram/ARGUS" target="_blank">
-    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
   </a>
 </p>
 
@@ -186,7 +186,7 @@ Automated red-teaming framework that stress-tests target LLMs and guardrails aga
 
 <p align="left">
   <a href="https://github.com/Vrishinram/GuardRift" target="_blank">
-    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
   </a>
 </p>
 
@@ -199,10 +199,10 @@ Modern Progressive Web App (PWA) with AI maintenance triage, transparent financi
 
 <p align="left">
   <a href="https://igloo-ruddy.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Live_PWA-Open_App-00FF88?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live App" />
+    <img src="https://img.shields.io/badge/Live_PWA-Open_App-00FF88?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live App" />
   </a>
   <a href="https://github.com/Vrishinram/IGLOO" target="_blank">
-    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
   </a>
 </p>
 
@@ -215,10 +215,10 @@ Client-side security analyzer with Shannon entropy computation, keyboard pattern
 
 <p align="left">
   <a href="https://vrishinram.github.io/Cyberguard/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-Open_App-00FF88?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/Live_Demo-Open_App-00FF88?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Demo" />
   </a>
   <a href="https://github.com/Vrishinram/Cyberguard" target="_blank">
-    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
   </a>
 </p>
 
@@ -231,10 +231,10 @@ Interactive personal portfolio showcasing full cybersecurity projects, technical
 
 <p align="left">
   <a href="https://portfolio-vrishinrams-projects.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Site-Visit_Portfolio-00bfff?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+    <img src="https://img.shields.io/badge/Live_Site-Visit_Portfolio-00bfff?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
   </a>
   <a href="https://github.com/Vrishinram/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
   </a>
 </p>
 
